@@ -1,0 +1,8 @@
+the project does not classify objects the why i want them to.
+for example when i input values of a rejected loan it  somehow gets approved.
+the machine learning model has an error for 35 instances, yet i do not think this is the issue because there are more than 480 rejeted loans.
+i beleive th problem is with the insufficient data that i have , i need more data!.
+also i think using a lot of columns/catogories for the model does not enable it to make the decisions i want it to make for example in case of low income and a high loan amount request.
+https://www.kaggle.com/datasets/burak3ergun/loan-data-set - consider using this dataset
+https://github.com/keithkamson/loan-prediction-ML - someones similair project
+https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset - currently using this dataset
